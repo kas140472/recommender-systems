@@ -24,6 +24,8 @@
 ## Data Sources
 
 The data used in this project was obtained from [Kaggle](https://www.kaggle.com/). 
-[Movie dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata))
-[Fanfiction dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/nehatiwari03/harry-potter-fanfiction-data))
+
+- [Movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+- [Fanfiction dataset](https://www.kaggle.com/datasets/nehatiwari03/harry-potter-fanfiction-data)
+
 You can access the dataset by visiting the provided links. All rights to the dataset belong to the respective authors and contributors on Kaggle.
